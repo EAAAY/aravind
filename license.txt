@@ -1,0 +1,99 @@
+﻿SOFTWARE: Brother Software
+
+VIGTIGT - LÆS VENLIGST OMHYGGELIGT INDEN INSTALLATION AF SOFTWAREN:
+
+Denne slutbrugerlicens ("EULA") er en retlig aftale mellem dig ("dig" eller "slutbruger") og Brother Industries, Ltd. ("Brother"), som regulerer din brug af den herover beskrevne Brother software og enhver og alle brugermanual(er) og elektroniske dokumenter ("SOFTWARE"). Ved at installere, reproducere og/eller bruge SOFTWAREN accepterer du at være bundet af denne EULA. Du kan ikke annullere denne transaktion efter installeringsprocessen er startet. Hvis du ikke accepterer betingelserne i denne EULA, udsteder Brother ikke dig licens til SOFTWAREN, og så skal du standse installeringsprocessen nu. Du bør udskrive en kopi af denne EULA til fremtidig reference.
+
+Vilkår og betingelser
+---------------------
+1. Licensudstedelse.
+--------------------
+
+Under hensyn til din accept af at være bundet af vilkårene og betingelserne i nærværende EULA, udsteder Brother dig en ikke-overførlig, ikke-eksklusiv licens til at:
+
+1) installere en kopi af SOFTWAREN på blot en enkelt computer og udelukkende bruge SOFTWAREN til dine personlige formål (hvis du er en forbruger) eller dine interne forretningsformål (hvis du er en virksomhed). Hvis SOFTWAREN blev leveret til dig sammen med Brother hardwareprodukter, eller den udgør en ny version af software, der blev leveret til dig tidligere sammen med Brother hardwareprodukter, har du lov til at installere en kopi af SOFTWAREN på flere multi-hardware på en enkelt plads med det eneformål at bruge SOFTWAREN til de førnævnte formål med de Brother hardwareprodukter, medmindre Brother har pålagt andet eller er pålagt af andre licensaftaler, der er udstedt af tredjeparter.
+
+2) tage én kopi af SOFTWAREN til opbakningsformål, forudsat at en sådan evt. kopi indeholder enhver og alle meddelelser om copyright givet i den originale SOFTWARE i en form, der er helt identisk med originalerne. 
+2. Brugsbegrænsninger
+---------------------
+Undtagen hvis det er udtrykkeligt angivet i nærværende EULA eller tilladt af lokal lovgivning, forpligtiger du dig til: 
+
+1) ikke at kopiere SOFTWAREN undtagen hvor sådan kopiering er forbundet med normal brug af SOFTWAREN, eller hvis det er nødvendigt til opbakningsformål eller driftssikkerhed;
+2) ikke at udleje, lease, underlicensere, udlåne, oversætte, sammenflette, ændre eller modificere SOFTWAREN;
+3) ikke at foretage ændringer eller modifikationer af hele eller en hvilken som helst del af SOFTWAREN ej heller at give tilladelse til at en del eller hele SOFTWAREN bliver indføjet i nogen andre programmer;
+4) ikke at demontere, dekompilere, "reverse engineer" eller kreere afledt software, der er baseret på hele eller en hvilken som helst del af SOFTWAREN ej heller at gøre forsøg på nogen af disse ting;
+5) at opbevare alle kopier af SOFTWAREN sikkert og at bibeholde og opdatere nøjagtige optegnelser over antallet og stederne af alle kopier af SOFTWAREN;
+6) hvor du er en virksomhed at føre opsyn og kontrollere brug af SOFTWAREN og sikre, at SOFTWAREN anvendes af dine ansatte og repræsentanter i overensstemmelse med betingelserne i nærværende EULA;
+7) hvis du er en forbruger ikke at bruge SOFTWAREN til nogen kommercielle virksomhedsmæssige eller videresalgsmæssige formål;
+8) at inkludere vores copyrightmeddelelse på hele og delvise kopier af SOFTWAREN på nogen måde;
+9) ikke at fremlægge eller gøre SOFTWAREN tilgængelig  i nogen form enten hel eller partiel (inklusive men ikke begrænset til programlister, objekt- og kildeprogramlister, objektkode og kildekode) for nogen som helst person (udover at fremlægge den i sin helhed for dine ansatte, hvis du er en virksomhed, eller overføre i overensstemmelse med pkt. 4) uden skriftlig samtykke fra os;
+10) ikke at anvende SOFTWAREN via noget kommunikationsnetværk eller vha. fjerntilgang.
+
+3. Ejerskab
+-------------
+Alle rettigheder titler og interesser herunder immaterielle ejendomsrettigheder i og til SOFTWAREN (herunder men ikke begrænset til programmer, billeder, clip-art, skabeloner, skrifttekster), brugermanualer og andre materialer, der er forbundet dermed såvel som alle kopier ejes af Brother eller deres leverandører. SOFTWAREN er beskyttet af gældende immaterielle ejendomsrettigheder og internationale traktater. Alle rettigheder, titler og interesser herunder men ikke begrænset til copyright i og til SOFTWAREN er givet i licens men ikke solgt.
+
+4. Overførsel
+------------
+Du må overføre SOFTWAREN permanent til en anden  person, forudsat at når du overfører SOFTWAREN, skal du aflevere den Brother hardware, hvor SOFTWAREN er installeret sammen med alle materialer i SOFTWARE-pakken (herunder alle komponentdele, mediet og trykte materialer såsom manualer). Hvis SOFTWAREN udgør opgraderinger af nogen tidligere software, skal du også aflevere alle sådanne former for software. Ved overførsel taber du alle rettigheder til at beholde nogen kopier af SOFTWAREN, og du skal slette alle de kopier, du har taget af SOFTWAREN.
+
+5. Garanti
+------------
+5.1 Brother garanterer, at SOFTWAREN substantielt vil yde i overensstemmelse med specifikationerne deri i en periode på 90 dage fra den dato, du modtog SOFTWAREN. Ved Brothers modtagelse og accept af din meddelelse  om at SOFTWAREN ikke yder substantielt i overensstemmelse med specifikationerne deri, vil Brother efter enevalg enten reparere eller udskifte SOFTWAREN, forudsat at du gør alle informationer, der måtte være nødvendige for at hjælpe Brother til at afhjælpe defekten eller fejlen tilgængelige herunder tilstrækkelige informationer til at gøre det muligt for Brother at genskabe sådan defekt eller fejl.  Du bekræfter, at SOFTWAREN ikke blev udviklet til at imødekomme dine individuelle krav, og det er derfor dit ansvar at sikre, at SOFTWARENS faciliteter og funktioner opfylder dine krav.
+
+5.2 Reparation eller udskiftning af SOFTWAREN af Brother som anført i pkt. 5.1 i denne EULA er Brothers hele ansvar og din ene og eksklusive afhjælpning.
+
+5.3 Ovenstående garanti gælder ikke, hvis enten (1) defekten eller fejlen i SOFTWAREN skyldes, at du selv har repareret SOFTWAREN eller (2) hvis defekten eller fejlen i SOFTWAREN skyldes, at du har brugt SOFTWAREN i strid med betingelserne i nærværende EULA.
+
+6. Ansvarsbegrænsning
+---------------------------
+BROTHER FRALÆGGER SIG UDTRYKKELIGT ETHVERT ANDET ANSVAR END DET I PKT. 5 I NÆRVÆRENDE EULA ANFØRTE ANSVAR ENTEN UDTRYKKELIGT ELLER IMPLICIT, HERUNDER UDEN BEGRÆNSNING ENHVER GARANTI FOR SALGBARHED OG EGNETHED TIL ET SÆRLIGT FORMÅL MED HENSYN TIL SOFTWAREN. DESUDEN ER BROTHER IKKE UNDER NOGEN OMSTÆNDIGHEDER ANSVARLIG FOR NOGET TAB AF FORTJENESTE, TAB AF FORRETNINGSMULIGHEDER, TAB AF ANVENDELSE AF DATA, TAB AF DATA, ARBEJDSSTANDSNING ELLER FOR INDIREKTE, DOKUMENTEREDE, TILFÆLDIGE, PENALT BEGRUNDEDE, EKSEMPLARISKE SKADER ELLER FØLGESKADER AF NOGEN ART, HVADENTEN DE ER BASERET PÅ KONTRAKT, SKADEGØRENDE HANDLING ELLER PÅ ANDEN MÅDE, SELV OM BROTHER ER BLEVET ADVISERET OM MULIGHEDEN FOR SÅDANNE SKADER. INTET I NÆRVÆRENDE LICENS BEGRÆNSER ELLER UDELUKKER VORES ANSVAR FOR DØD, PERSONSKADE, SVINDEL, FALSK FREMSTILLING ELLER NOGET ANDET ANSVAR, DER IKKE KAN EKSKLUDERES AF GÆLDENDE LOVGIVNING.
+
+7. Ophør
+--------
+Brother kan med forbehold af nogen andre rettigheder og afhjælpninger de måtte have, bringe nærværende EULA til ophør uden varsel, hvis du misligholder den. Hvor Brother bringer den til ophør pga. din misligholdelse af næreværende UELA, skal du straks destruere SOFTWAREN og alle kopier deraf.
+
+8. Varemærker
+--------------
+Under ingen omstændigheder skal EULA fortolkes som havende tildelt dig nogen som helst licenser til at bruge varemærker eller servicemærker, der tilhører Brother.
+
+9. Eksportbestemmelser
+----------------------
+Du må ikke eksportere eller geneksportere SOFTWAREN eller nogen som helst kopi deraf i overtrædelse af gældende love eller bekendtgørelser.
+
+10. Frafald
+-------------------- 
+Hvis vi forsømmer at insistere på, at du opfylder nogen af dine forpligtelse i henhold til nærværende EULA, hvis vi ikke gennemtvinger vores rettigheder over for dig, eller hvis vi udsætter at gøre det, betyder det ikke, at du ikke skal overholde de forpligtelser. Hvis vi frafalder en misligholdelse, gør vi det kun skriftligt, og det betyder ikke, at vi automatisk frafalder en senere misligholdelse fra dig.
+
+11. Uadskillelighed
+--------------------
+Hver af betingelserne i nærværende EULA gælder separat. Hvis en domstol eller kompetent myndighed bestemmer, at en af dem er ugyldig eller uigennemtvingelig, forbliver de resterende betingelser i fuld kraft og med fuld virkning.
+
+12. Lovvalg
+-------------------
+Nærværende EULA reguleres og er underlagt japansk lov. Såfremt nogen som helst af bestemmelserne i nærværende UELA erklæres for ugyldige, er sådanne bestemmelser adskilbare og uafhængige af de andre bestemmelser i nærværende EULA, og gyldigheden af de øvrige bestemmelser og EULA samlet set påvirkes ikke heraf.
+
+13. Indsamling af enhedsoplysninger.
+-------------------
+SOFTWARE kan gøre Brother i stand til at indsamle oplysninger fra vores produkter og enheder tilsluttet produkterne ("Enheder"), herunder, men ikke begrænset til, printermodel, serienummer, placering af din enhed ("Enhedsoplysninger"). Desuden er der oplysninger om din brug af vores produkter (antal udskrevne sider, blækforbruget osv.) samt oplysninger om betjening af produkter (såsom fejllogs) og kan blive sendt til Brothers server. Sådanne oplysninger (med undtagelse af serienummeret) identificerer ikke dig som person, og de vil heller ikke blive knyttet til nogen af dine personlige oplysninger. Brother vil udelukkende bruge sådanne oplysninger til statistisk analyse og forbedring af vores service.
+
+Enhedsoplysninger omfatter vores produkts serienummer. Hvis du registrerer oplysninger på vores salgsselskabs produktregistreringswebsted, vil salgsvirksomheden tilbageholde oplysninger, der kan identificere dig personligt og produktets serienummer. Men vi kan ikke identificere dig personligt, fordi vi ikke vil få stillet disse oplysninger til rådighed. Serienummeret skal bevares i streng overensstemmelse med Brothers "Politik om beskyttelse af personlige oplysninger ved indsamling af enhedsoplysninger", der kan findes på Brothers websted <http://www.brother.com/privacy/device/index.htm>.
+
+Du kan fravælge indsamlingen af oplysninger i denne artikel ved at ændre indstillingerne for installationsprogrammet eller denne SOFTWARE.
+
+Andre vilkår og betingelser
+
+For Brother hardwareprodukter, der omfatter funktioner, som omdanner skannede data til en Microsoft Office-fil, accepterer du yderligere følgende:
+
+1. Du skal have internetadgang for at omdanne skannede data til Microsoft Office-fil ("Servicen"). 
+2. Når dataene omdannes, gemmes de skannede data kortvarigt i tredjeparters servere, som er stillet til rådighed i henhold til en kontrakt med Brother. Sådanne data må kun bruges med det formål at (i) yde Servicen og (ii) analysere Servicens ydelse og funktionalitet (kun anonyme data). 
+3. Servicen kan afbrydes eller indstilles uden varsel pga. ændringer i serviceudbyderens omstændigheder eller andre årsager.
+
+LÆS FØLGENDE INFORMATION VEDRØRENDE FIREWALL / ANTIVIRUS.
+
+For at alle netværksfunktionerne i dit/dine Brother produkter skal fungere, skal nogle af Windows Firewall port indstillinger ændres, for at muliggøre netværksforbindelse og fortsætte installationen.
+
+TIL ANTIVIRUSBRUGERE
+
+Hvis du anvender AntiVirus Software, kan et advarselsdialogvindue komme frem under installationen. Vælg "allow" for at fortsætte.
+
